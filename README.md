@@ -1,6 +1,6 @@
 # Hadoop_Session2_Assignment7
 
-dataset_Session_14.txt is used to do the given tasks in hive
+dataset_Session_14.txt is used to do the given tasks in hive,
 
 
 10-01-1990,123112,10
